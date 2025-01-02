@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, {  useState } from "react"
 import QuestionCard from "./Components/QuestionCard"
 import { Diff, fetchQuizData, QuestionState } from "./Api"
 import { GlobalStyle, Wrapper } from "./App.style";
